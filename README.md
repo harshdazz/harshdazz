@@ -1,4 +1,10 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" />
+</div>  
+
+<h1 align="center">💫 About Me</h1>
+
+<div align="center">
 A Full stack developer from India , focused on scalable application with backend logic and AI automatiom<br>🔭I am currently working on personal project and freelance project <br>📌Learning DevOps conecpt, Docker, CI/CD Pipeline and System Design<br>🌐Working with React, JS, Python, Frontend and logistic backend<br>♨️Exploring FastAPI, pytorch, AI Automation Workflow<br>✨Fun Fact  : I belive good code should read like a story
 
 
