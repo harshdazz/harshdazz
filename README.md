@@ -5,7 +5,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <div align="center">
-A Full stack developer from India , focused on scalable application with backend logic and AI automatiom<br>🔭I am currently working on personal project and freelance project <br>📌Learning DevOps conecpt, Docker, CI/CD Pipeline and System Design<br>🌐Working with React, JS, Python, Frontend and logistic backend<br>♨️Exploring FastAPI, pytorch, AI Automation Workflow<br>✨Fun Fact  : I belive good code should read like a story
+A Full stack developer from India , focused on scalable application with backend logic and AI automation<br>🔭I am currently working on personal project and freelance project <br>📌Learning DevOps conecpt, Docker, CI/CD Pipeline and System Design<br>🌐Working with React, JS, Python, Frontend and logistic backend<br>♨️Exploring FastAPI, pytorch, AI Automation Workflow<br>✨Fun Fact  : I belive good code should read like a story
 
 
 ## 🌐 Socials:
