@@ -1,33 +1,100 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%" />
-</div>  
 
-<h1 align="center">💫 About Me</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Harsh%20Dubey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JS%20%2F%20React%20%2F%20Node%20%2F%20AI&descAlignY=58&descSize=16&descColor=cccccc" width="100%"/>
+
+</div>
+
+<br/>
+
+Full-stack developer from Gurugram, India. I build end-to-end web apps — React on the front, Node.js on the back — and I'm moving deeper into AI integrations and automation. Currently freelancing and working on personal projects while learning DevOps and system design.
+
+I believe good code should read like a story.
+
+<br/>
+
+## 🛠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS · Vite |
+| **Backend** | Node.js · Express · FastAPI |
+| **Database** | MongoDB · PostgreSQL · Firebase |
+| **AI / Automation** | OpenAI API · Python · LangChain (learning) |
+| **DevOps & Deploy** | Docker · Vercel · Render · AWS (basics) |
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 ShelterScape</h3>
+      <p>Full-stack housing platform — search, list, and book accommodations. Complete with auth, a real backend, and live in production.</p>
+      <p><code>JavaScript · Node.js · Express · MongoDB · React</code></p>
+      <a href="https://quick-stay-full-stack-pi.vercel.app"><strong>🌐 Live Demo</strong></a> &nbsp;·&nbsp;
+      <a href="https://github.com/harshdazz/ShelterScape-FullStack">📁 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ FastStationary</h3>
+      <p>E-commerce platform for Indian clothing — product catalog, shopping cart, user auth, and a full admin interface.</p>
+      <p><code>React · TypeScript · Tailwind CSS · Firebase</code></p>
+      <a href="https://github.com/harshdazz/fastStationary">📁 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎤 AI Mock Interview</h3>
+      <p>AI-powered interview prep tool — practice behavioral and technical questions with feedback powered by AI.</p>
+      <p><code>React · TypeScript · Vite · Tailwind · AI API</code></p>
+      <a href="https://github.com/harshdazz/ai-mock-interview-react-vite-typescript-january-2025">📁 Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔜 More in progress</h3>
+      <p>Building a full-stack AI project with Next.js and the OpenAI API. Drop a message if you want to collaborate.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📌 Currently
+
+- 🔭 Building a full-stack AI project (Next.js + OpenAI API)
+- 📚 Learning Docker, CI/CD pipelines, and system design
+- 🎯 Actively looking for a full-stack developer role
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-A Full stack developer from India , focused on scalable application with backend logic and AI automation<br>🔭I am currently working on personal project and freelance project <br>📌Learning DevOps conecpt, Docker, CI/CD Pipeline and System Design<br>🌐Working with React, JS, Python, Frontend and logistic backend<br>♨️Exploring FastAPI, pytorch, AI Automation Workflow<br>✨Fun Fact  : I belive good code should read like a story
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdazz&theme=dark&hide_border=true&include_all_commits=true&count_private=false" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdazz&theme=dark&hide_border=true&layout=compact" height="160"/>
+</div>
 
+<br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh._dazz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-dubey-b2b2b4395) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/harshdazz_/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@harsh_dazz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshdazz4@gmail.com) 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harshdazz&theme=dark&hide_border=true"/>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshdazz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshdazz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdazz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshdazz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 📬 Let's Connect
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harshdazz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-dubey-b2b2b4395)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/harsh_dazz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/harsh._dazz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshdazz4@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=harshdazz&icon=1&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+</div>
