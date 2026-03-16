@@ -6,7 +6,7 @@
 
 <br/>
 
-Full-stack developer from Delhi India. I build end-to-end web apps — React on the front, Node.js on the back — and I'm moving deeper into AI integrations and automation. Currently freelancing and working on personal projects while learning DevOps and system design.
+Full-stack developer from Gurugram, India. I build end-to-end web apps — React on the front, Node.js on the back — and I'm moving deeper into AI integrations and automation. Currently freelancing and working on personal projects while learning DevOps and system design.
 
 I believe good code should read like a story.
 
@@ -47,6 +47,7 @@ I believe good code should read like a story.
       <h3>🎤 AI Mock Interview</h3>
       <p>AI-powered interview prep tool — practice behavioral and technical questions with feedback powered by AI.</p>
       <p><code>React · TypeScript · Vite · Tailwind · AI API</code></p>
+      <a href="https://ai-mock-interview-react-d2314.web.app/generate"><strong>🌐 Live Demo</strong></a> &nbsp;·&nbsp;
       <a href="https://github.com/harshdazz/ai-mock-interview-react-vite-typescript-january-2025">📁 Repo</a>
     </td>
     <td width="50%" valign="top">
